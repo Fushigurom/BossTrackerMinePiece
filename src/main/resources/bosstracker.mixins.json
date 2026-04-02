@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.fushy.bosstracker.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ChatMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
